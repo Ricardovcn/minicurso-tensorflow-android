@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.android\build-cache\4d6a846b872554d68006f5872c2a5141b33955ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_dee785a224c92474d1d810060bf8c1eac260bc3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.android\build-cache\d8149be35a42cf8b89bb90570b6a2588af75b714\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_08eba6c6f45ada9591aa80e356bf5bfe11624399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.android\build-cache\bf8c98220d90aa1eb2f4af7ca1454b8ef433f979\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_413e70bbf4481c420e9439b93dc0be60baf8b303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.android\build-cache\fc68b4b8c838ecb70b7ea01319b4d071c33f323e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_6aca26fa0951e42337eff1c262148befb8789c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.android\build-cache\27351804b80e9f4b204f6b411cad9c84a195e2ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_8dd07f068c933a07423a62405fc132da4feab536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.android\build-cache\7402d66b8ad4f04502ad69b29793e527fabc19a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_a3bf143518c38ca2f33d4294591e2470128d86f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.android\build-cache\15fde1de86a712dbd45f0dad63ef2d2480e48425\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_8ac30c2e7de550cb5c8c3b5bd9f020fc9106ed2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.android\build-cache\4725760e90c46ce3f1ead2310bf80081c6d9a923\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_a8875062851cdda5fa860371274a33c1f1e1cd55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.android\build-cache\04c024b7935fa6688a06ea4113f1e77307718417\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08b7bb0240c9df70b9af7c07496023df477d2640">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_5599fd758ca5d24c6bd85971f00cebe51d8c6892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.android\build-cache\b8fe18fca8144387a823bad176b7306d5e88b89e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_2b565ea94e02238d7d79c4466898b1bad1854213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ricardo\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Ricardo\Desktop\asd\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_9473940cabaa985fe9d3855df425e6a4e5a6783b.jar" />
+    </item>
+
+</items>

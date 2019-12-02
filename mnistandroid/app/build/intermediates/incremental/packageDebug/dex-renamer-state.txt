@@ -1,0 +1,4 @@
+#Mon Dec 02 14:53:13 BRST 2019
+base.0=C\:\\Users\\Ricardo\\Desktop\\asd\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Ricardo\\Desktop\\asd\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
